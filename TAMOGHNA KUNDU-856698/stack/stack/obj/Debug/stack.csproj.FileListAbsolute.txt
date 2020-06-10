@@ -1,0 +1,7 @@
+C:\Users\anupam\source\repos\stack\stack\bin\Debug\stack.exe.config
+C:\Users\anupam\source\repos\stack\stack\bin\Debug\stack.exe
+C:\Users\anupam\source\repos\stack\stack\bin\Debug\stack.pdb
+C:\Users\anupam\source\repos\stack\stack\obj\Debug\stack.csprojAssemblyReference.cache
+C:\Users\anupam\source\repos\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\anupam\source\repos\stack\stack\obj\Debug\stack.exe
+C:\Users\anupam\source\repos\stack\stack\obj\Debug\stack.pdb
