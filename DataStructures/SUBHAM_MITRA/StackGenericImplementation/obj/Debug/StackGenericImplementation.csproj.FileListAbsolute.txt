@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\GenericImplementation\obj\Debug\StackGenericImplementation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GenericImplementation\obj\Debug\StackGenericImplementation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GenericImplementation\bin\Debug\GenericImplementation.exe.config
+C:\Users\user\source\repos\GenericImplementation\bin\Debug\GenericImplementation.exe
+C:\Users\user\source\repos\GenericImplementation\bin\Debug\GenericImplementation.pdb
+C:\Users\user\source\repos\GenericImplementation\obj\Debug\GenericImplementation.exe
+C:\Users\user\source\repos\GenericImplementation\obj\Debug\GenericImplementation.pdb

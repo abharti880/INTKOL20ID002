@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\QueueGenericImplementation\bin\Debug\QueueGenericImplementation.exe.config
+C:\Users\user\source\repos\QueueGenericImplementation\bin\Debug\QueueGenericImplementation.exe
+C:\Users\user\source\repos\QueueGenericImplementation\bin\Debug\QueueGenericImplementation.pdb
+C:\Users\user\source\repos\QueueGenericImplementation\obj\Debug\QueueGenericImplementation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QueueGenericImplementation\obj\Debug\QueueGenericImplementation.exe
+C:\Users\user\source\repos\QueueGenericImplementation\obj\Debug\QueueGenericImplementation.pdb
