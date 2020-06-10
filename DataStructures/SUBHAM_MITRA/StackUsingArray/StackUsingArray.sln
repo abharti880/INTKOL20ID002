@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUsingArray", "StackUsingArray.csproj", "{F215AB75-3438-44F6-A1EB-D7C07E270DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingArray", "..\QueueUsingArray\QueueUsingArray.csproj", "{F256D277-96DA-4CF6-A5CC-2F2287A5C270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F215AB75-3438-44F6-A1EB-D7C07E270DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F215AB75-3438-44F6-A1EB-D7C07E270DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F215AB75-3438-44F6-A1EB-D7C07E270DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F215AB75-3438-44F6-A1EB-D7C07E270DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F256D277-96DA-4CF6-A5CC-2F2287A5C270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F256D277-96DA-4CF6-A5CC-2F2287A5C270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F256D277-96DA-4CF6-A5CC-2F2287A5C270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F256D277-96DA-4CF6-A5CC-2F2287A5C270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D026D923-2E72-4A72-ACD8-D93752A27D01}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\QueueUsingArray\bin\Debug\QueueUsingArray.exe.config
+C:\Users\user\source\repos\QueueUsingArray\bin\Debug\QueueUsingArray.exe
+C:\Users\user\source\repos\QueueUsingArray\bin\Debug\QueueUsingArray.pdb
+C:\Users\user\source\repos\QueueUsingArray\obj\Debug\QueueUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QueueUsingArray\obj\Debug\QueueUsingArray.exe
+C:\Users\user\source\repos\QueueUsingArray\obj\Debug\QueueUsingArray.pdb
