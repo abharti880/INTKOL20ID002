@@ -1,0 +1,13 @@
+E:\vs com 2019\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.exe
+E:\vs com 2019\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.deps.json
+E:\vs com 2019\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.json
+E:\vs com 2019\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.dev.json
+E:\vs com 2019\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.dll
+E:\vs com 2019\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.pdb
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csprojAssemblyReference.cache
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csproj.CoreCompileInputs.cache
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfoInputs.cache
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfo.cs
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.dll
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.pdb
+E:\vs com 2019\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.genruntimeconfig.cache
