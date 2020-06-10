@@ -1,0 +1,13 @@
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\bin\Debug\netcoreapp3.1\QueueUsingArray.exe
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\bin\Debug\netcoreapp3.1\QueueUsingArray.deps.json
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\bin\Debug\netcoreapp3.1\QueueUsingArray.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\bin\Debug\netcoreapp3.1\QueueUsingArray.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\bin\Debug\netcoreapp3.1\QueueUsingArray.dll
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\bin\Debug\netcoreapp3.1\QueueUsingArray.pdb
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.dll
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.pdb
+C:\Users\Sujoy Basak\source\repos\QueueUsingArray\QueueUsingArray\obj\Debug\netcoreapp3.1\QueueUsingArray.genruntimeconfig.cache

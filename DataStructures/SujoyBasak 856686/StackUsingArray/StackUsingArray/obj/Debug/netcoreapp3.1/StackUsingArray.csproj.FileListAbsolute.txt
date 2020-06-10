@@ -1,0 +1,13 @@
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\bin\Debug\netcoreapp3.1\StackUsingArray.exe
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\bin\Debug\netcoreapp3.1\StackUsingArray.deps.json
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\bin\Debug\netcoreapp3.1\StackUsingArray.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\bin\Debug\netcoreapp3.1\StackUsingArray.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\bin\Debug\netcoreapp3.1\StackUsingArray.dll
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\bin\Debug\netcoreapp3.1\StackUsingArray.pdb
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.dll
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.pdb
+C:\Users\Sujoy Basak\source\repos\StackUsingArray\StackUsingArray\obj\Debug\netcoreapp3.1\StackUsingArray.genruntimeconfig.cache
