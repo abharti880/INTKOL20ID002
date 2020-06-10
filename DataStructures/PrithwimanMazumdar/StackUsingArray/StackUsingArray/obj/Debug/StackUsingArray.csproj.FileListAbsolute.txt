@@ -1,0 +1,7 @@
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\bin\Debug\StackUsingArray.exe.config
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\bin\Debug\StackUsingArray.exe
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\bin\Debug\StackUsingArray.pdb
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.csprojAssemblyReference.cache
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.exe
+C:\Users\Prithwi.PRITHWIMAN\source\repos\StackUsingArray\StackUsingArray\obj\Debug\StackUsingArray.pdb
