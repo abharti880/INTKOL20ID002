@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\stackqueue\stackqueue\bin\Debug\stackqueue.exe.config
+C:\Users\HP\source\repos\stackqueue\stackqueue\bin\Debug\stackqueue.exe
+C:\Users\HP\source\repos\stackqueue\stackqueue\bin\Debug\stackqueue.pdb
+C:\Users\HP\source\repos\stackqueue\stackqueue\obj\Debug\stackqueue.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\stackqueue\stackqueue\obj\Debug\stackqueue.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\stackqueue\stackqueue\obj\Debug\stackqueue.exe
+C:\Users\HP\source\repos\stackqueue\stackqueue\obj\Debug\stackqueue.pdb
