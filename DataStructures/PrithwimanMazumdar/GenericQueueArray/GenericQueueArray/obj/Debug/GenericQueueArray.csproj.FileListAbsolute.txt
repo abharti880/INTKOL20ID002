@@ -1,0 +1,6 @@
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericQueueArray\GenericQueueArray\bin\Debug\GenericQueueArray.exe.config
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericQueueArray\GenericQueueArray\bin\Debug\GenericQueueArray.exe
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericQueueArray\GenericQueueArray\bin\Debug\GenericQueueArray.pdb
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericQueueArray\GenericQueueArray\obj\Debug\GenericQueueArray.csproj.CoreCompileInputs.cache
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericQueueArray\GenericQueueArray\obj\Debug\GenericQueueArray.exe
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericQueueArray\GenericQueueArray\obj\Debug\GenericQueueArray.pdb

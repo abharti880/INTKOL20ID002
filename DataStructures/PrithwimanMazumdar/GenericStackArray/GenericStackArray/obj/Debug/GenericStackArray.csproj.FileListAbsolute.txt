@@ -1,0 +1,7 @@
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\bin\Debug\GenericStackArray.exe.config
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\bin\Debug\GenericStackArray.exe
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\bin\Debug\GenericStackArray.pdb
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\obj\Debug\GenericStackArray.csprojAssemblyReference.cache
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\obj\Debug\GenericStackArray.csproj.CoreCompileInputs.cache
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\obj\Debug\GenericStackArray.exe
+C:\Users\Prithwi.PRITHWIMAN\source\repos\GenericStackArray\GenericStackArray\obj\Debug\GenericStackArray.pdb
