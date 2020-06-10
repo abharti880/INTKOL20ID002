@@ -14,7 +14,8 @@ namespace GenericQueueArray
         public T[] Q { get; set; }
         public GenericQueue(int size)
         {
-            Front = Rear = -1;
+            Front = 0;
+            Rear = -1;
             Size = size;
             Q = new T[Size];
         }
@@ -23,15 +24,14 @@ namespace GenericQueueArray
             if (Rear == Size - 1)
                 return false;
             Q[++Rear] = val;
-            if (Front == -1)
-                Front++;
             return true;
         }
         public T Dequeue()
         {
             if (Front > Rear || Front==-1)
             {
-                Front = Rear = -1;
+                Front = 0;
+                Rear = -1;
                 return default(T);
             }
             return Q[Front++];
