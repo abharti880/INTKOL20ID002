@@ -28,7 +28,7 @@ namespace GenericQueueArray
         }
         public T Dequeue()
         {
-            if (Front > Rear || Front==-1)
+            if (Front > Rear)
             {
                 Front = 0;
                 Rear = -1;
