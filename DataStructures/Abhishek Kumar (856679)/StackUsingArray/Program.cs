@@ -4,66 +4,61 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StackUsingArray
+namespace QueueUsingArray
 {
-    class MyStack
+    class MyQueue
     {
-        public int Top { get; set; }
+        public int Front { get; set; }
+        public int Rear { get; set; }
         public int Size { get; set; }
-        public int[] Stack { get; set; }
-        public MyStack(int size)
+        public int[] Queue { get; set; }
+        public MyQueue(int size)
         {
-            Top = -1;
+            Front = Rear = -1;
             Size = size;
-            Stack = new int[Size];
+            Queue = new int[Size];
         }
-        public bool Push(int val)
+        public bool Enqueue(int val)
         {
-            if (Top == Size - 1)
+            if (Rear == Size - 1 && Front == 0)
                 return false;
-            Stack[++Top] = val;
+            Rear = (Rear + 1) % Size;
+            Queue[Rear] = val;
+            if (Front == -1)
+                Front++;
             return true;
         }
-        public int? Pop()
+        public int? Dequeue()
         {
-            if (Top == -1)
-                return null;
-            return Stack[Top--];
-        }
-        public void peek()
-        {
-            if (Top == -1)
+            if (Front == -1 && Rear == -1)
             {
-                Console.WriteLine("Stack is empty");
+                return null;
+            }
+            else if (Rear == Front)
+            {
+                int tem = Front;
+                Front = -1;
+                Rear = -1;
+                return Queue[tem];
             }
             else
             {
-                Console.WriteLine("Top element is {0}", Stack[Top]);
+                int tem = Front;
+                Front = (Front + 1) % Size;
+                return Queue[tem];
             }
         }
-        public int Count()
-        {
-            return Top;
-        }
-
-        
-        public void Clear()
-        {
-            Top = -1;
-            Console.WriteLine("Stack cleared");
-        }
-
         public void Print()
         {
-            Console.WriteLine("Stack:");
-            if (Top == -1)
+            Console.WriteLine("Queue:");
+            if (Front == -1 && Rear == -1)
             {
-                Console.WriteLine("Stack is empty");
+                Console.WriteLine("Empty");
             }
             else
             {
-                for (int i = Top; i > -1; i--)
-                    Console.WriteLine(Stack[i]);
+                for (int i = Front; i <= Rear; i++)
+                    Console.WriteLine(Queue[i]);
             }
         }
     }
@@ -71,61 +66,43 @@ namespace StackUsingArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter size of Stack:");
+            Console.WriteLine("Enter size of Queue:");
             int size = int.Parse(Console.ReadLine());
-            MyStack stack = new MyStack(size);
+            MyQueue queue = new MyQueue(size);
             bool exit = false;
             int ch;
             while (!exit)
             {
-                Console.WriteLine("\n****************");
-                Console.WriteLine("1. Push");
-                Console.WriteLine("2. Pop");
+                Console.WriteLine("\n******************************");
+                Console.WriteLine("1. Enqueue");
+                Console.WriteLine("2. Dequeue");
                 Console.WriteLine("3. Print");
-                Console.WriteLine("4. Peek");
-                Console.WriteLine("5. Count");
-                Console.WriteLine("6. Clear ");
-                Console.WriteLine("7. Exit");
+                Console.WriteLine("4. Exit");
                 Console.WriteLine("Enter Choice:");
+                Console.WriteLine();
+
                 ch = int.Parse(Console.ReadLine());
                 switch (ch)
                 {
                     case 1:
                         Console.WriteLine("Enter value:");
                         int val = int.Parse(Console.ReadLine());
-                        if (stack.Push(val))
-                            Console.WriteLine(val + " has been pushed onto stack");
+                        if (queue.Enqueue(val))
+                            Console.WriteLine(val + " has been inserted into queue");
                         else
-                            Console.WriteLine("Stack Overflow");
+                            Console.WriteLine("could not insert, Queue is full.");
                         break;
                     case 2:
-                        int? topOfStack = stack.Pop();
-                        if (topOfStack == null)
-                            Console.WriteLine("Stack Underflow");
+                        int? top = queue.Dequeue();
+                        if (top == null)
+                            Console.WriteLine("could not Dequeue, Queue is empty");
                         else
-                            Console.WriteLine(topOfStack + " has been popped out of stack");
+                            Console.WriteLine(top + " has been deleted from queue");
                         break;
                     case 3:
-                        stack.Print();
+                        queue.Print();
                         break;
                     case 4:
-                        stack.peek();
-                        break;
-                    case 5:
-                        if(stack.Top == -1)
-                        {
-                            Console.WriteLine("Empty");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Count = {0}",stack.Top+1);
-                        }
-
-                        break;
-                    case 6:
-                        stack.Clear();
-                        break;
-                    case 7:
                         exit = true;
                         break;
                     default:
