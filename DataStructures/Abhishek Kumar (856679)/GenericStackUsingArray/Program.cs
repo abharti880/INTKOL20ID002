@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -41,6 +41,18 @@ namespace GenericStackUsingArray
                 Console.WriteLine("Top element is {0}", Stack[Top]);
             }
         }
+
+        public int Count()
+        {
+            return Top;
+        }
+
+        public void Clear()
+        {
+            Top = -1;
+            Console.WriteLine("Stack cleared");
+        }
+
         public void Print()
         {
             Console.WriteLine("Stack:");
@@ -71,7 +83,9 @@ namespace GenericStackUsingArray
                 Console.WriteLine("2. Pop");
                 Console.WriteLine("3. Print");
                 Console.WriteLine("4. Peek");
-                Console.WriteLine("5. Exit");
+                Console.WriteLine("5. Count");
+                Console.WriteLine("6. Clear ");
+                Console.WriteLine("7. Exit");
                 Console.WriteLine("Enter Choice:");
                 ch = int.Parse(Console.ReadLine());
                 switch (ch)
@@ -98,6 +112,20 @@ namespace GenericStackUsingArray
                         stack.peek();
                         break;
                     case 5:
+                        if (stack.Top == -1)
+                        {
+                            Console.WriteLine("Empty");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Count = {0}", stack.Top + 1);
+                        }
+
+                        break;
+                    case 6:
+                        stack.Clear();
+                        break;
+                    case 7:
                         exit = true;
                         break;
                     default:
