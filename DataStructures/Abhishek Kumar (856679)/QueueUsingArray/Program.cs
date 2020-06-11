@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +20,7 @@ namespace QueueUsingArray
         }
         public bool Enqueue(int val)
         {
-            if (Rear == Size - 1 && Front == 0)
+            if (((Rear + 1) % Size) == Front )
                 return false;
             Rear = (Rear + 1) % Size;
             Queue[Rear] = val;
@@ -48,6 +48,36 @@ namespace QueueUsingArray
                 return Queue[tem];
             }
         }
+        public int? Peek()
+        {
+            if (Front == -1)
+            {
+                return null;
+            }
+            return Queue[Front];
+        }
+        public int Count()
+        {
+            if (Front == -1)
+                return 0;
+            else
+            {
+                int c = 0;
+                for (int i = Front; i != Rear; i = ((i + 1) % Size))
+                {
+                    c++;
+                }
+                return ++c; //adding one rear element
+            }
+            
+        }
+
+        public void Clear()
+        {
+            Front = -1;
+            Rear = -1;
+            Console.WriteLine("------>  Cleared");
+        }
         public void Print()
         {
             Console.WriteLine("Queue:");
@@ -57,8 +87,11 @@ namespace QueueUsingArray
             }
             else
             {
-                for (int i = Front; i <= Rear; i++)
+                for (int i = Front; i != Rear; i=((i + 1) % Size))
+                {
                     Console.WriteLine(Queue[i]);
+                }
+                Console.WriteLine(Queue[Rear]); // displaying last Rear element
             }
         }
     }
@@ -77,7 +110,10 @@ namespace QueueUsingArray
                 Console.WriteLine("1. Enqueue");
                 Console.WriteLine("2. Dequeue");
                 Console.WriteLine("3. Print");
-                Console.WriteLine("4. Exit");
+                Console.WriteLine("4. Peek");
+                Console.WriteLine("5. Count");
+                Console.WriteLine("6. Clear");
+                Console.WriteLine("7. Exit");
                 Console.WriteLine("Enter Choice:");
                 Console.WriteLine();
 
@@ -103,6 +139,23 @@ namespace QueueUsingArray
                         queue.Print();
                         break;
                     case 4:
+                        if (queue.Peek() == null)
+                        {
+                            Console.WriteLine("Queue is empty");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Element at top = {0}", queue.Peek());
+
+                        }
+                        break;
+                    case 5:
+                        Console.WriteLine("Total Elements = {0}", queue.Count());
+                        break;
+                    case 6:
+                        queue.Clear();
+                        break;
+                    case 7:
                         exit = true;
                         break;
                     default:
