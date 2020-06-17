@@ -1,0 +1,36 @@
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.deps.json
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.dll
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.RazorAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.RazorAssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.RazorTargetAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.pdb
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.dll
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.pdb
+C:\Users\Sujoy Basak\source\repos\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.csproj.CoreCompileInputs.cache
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\appsettings.json
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.deps.json
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.runtimeconfig.json
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.runtimeconfig.dev.json
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.dll
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\bin\Debug\netcoreapp2.1\MovieCruiserUserStories.pdb
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.csprojAssemblyReference.cache
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.AssemblyInfoInputs.cache
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.AssemblyInfo.cs
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.csproj.CoreCompileInputs.cache
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.RazorAssemblyInfo.cache
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.RazorAssemblyInfo.cs
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.RazorTargetAssemblyInfo.cache
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.dll
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.pdb
+G:\visual studio\Abhishek Kumar (856679) Intership handson\Hand-onPlus\MovieCruiserUserStories\MovieCruiserUserStories\MovieCruiserUserStories\obj\Debug\netcoreapp2.1\MovieCruiserUserStories.genruntimeconfig.cache
