@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "SqlCon": "Data Source=DESKTOP-R18O42L\SQLEXPRESS;Initial Catalog=MovieCruiserDB;Integrated Security=True"
+  },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Warning"
+        }
+    },
+    "AllowedHosts": "*"
+}
