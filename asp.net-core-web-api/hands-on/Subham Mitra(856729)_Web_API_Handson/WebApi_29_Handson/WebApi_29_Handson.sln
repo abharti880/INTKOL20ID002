@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi_29_Handson", "WebApi_29_Handson.csproj", "{90F76E1F-82B4-45F4-9561-4A23A07B86F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{7CF9089C-629F-47B4-A973-5D5AA219F706}"
+	ProjectSection(SolutionItems) = preProject
+		Department.cs = Department.cs
+		Employee.cs = Employee.cs
+		Skill.cs = Skill.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Filters", "Filters", "{3BE78DE0-8136-4587-A717-C2C1BC130A72}"
+	ProjectSection(SolutionItems) = preProject
+		CustomAuthFilter.cs = CustomAuthFilter.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F76E1F-82B4-45F4-9561-4A23A07B86F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F76E1F-82B4-45F4-9561-4A23A07B86F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F76E1F-82B4-45F4-9561-4A23A07B86F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F76E1F-82B4-45F4-9561-4A23A07B86F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6FAFDA-5745-4513-A4F5-14D3C19A6F27}
+	EndGlobalSection
+EndGlobal
